@@ -1,4 +1,8 @@
 # Tugas Besar Grafika Komputer
+## Kelompok 4
+Muhammad Rizki - 2107922
+Mohammad Labib Husain - 2101989
+Muhammad Firdaus - 2101995
 ## Deskripsi
 Projek ini untuk memenuhi tugas besar mata kuliah Grafika Komputer dan Multimedia, yang kami beri nama dengan "Ocean View 3D Model".Project ini adalah demonstrasi dari rendering tampilan laut yang sederhana dalam sebuah lingkungan 3D menggunakan library LearnOpenGL. Proyek ini bertujuan untuk memperlihatkan kekuatan dan kemampuan dari LearnOpenGL dengan menciptakan sebuah pemandangan laut yang menarik secara visual dan interaktif.
 
@@ -13,6 +17,7 @@ Anda dapat menggunakan kontrol mouse dan keyboard untuk berinteraksi dengan pema
 Untuk informasi lebih lanjut tentang penggunaan dan kontrol, silakan merujuk ke dokumentasi yang disertakan dengan LearnOpenGL.
 
 
+## Dokumentasi
 
 https://github.com/labibhusain14/Ocean_View_3D_Model_With_LearnOpenGL/assets/119772365/00b07814-59f0-4e50-b7bb-2ff1d90f7282
 
