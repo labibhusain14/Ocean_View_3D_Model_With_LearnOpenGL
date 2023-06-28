@@ -1,0 +1,404 @@
+# depslib dependency file v1.0
+1664369677 source:c:\users\labib\onedrive\documents\semester 3\grafikom'\prak\test\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1664866477 source:c:\users\labib\onedrive\documents\semester 3\grafikom'\prak\test\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<iostream>
+
+1664369677 source:c:\users\labib\onedrive\documents\semester 3\grafikom'\latihan\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1666856217 source:c:\users\labib\onedrive\documents\semester 3\grafikom'\latihan\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<learnopengl/shader_s.h>
+	<iostream>
+
+1664369677 source:c:\users\labib\onedrive\documents\semester3\grafikom\latihan\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1666856734 source:c:\users\labib\onedrive\documents\semester3\grafikom\latihan\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<learnopengl/shader_s.h>
+	<iostream>
+
+1664369677 source:c:\users\labib\onedrive\documents\semester3\grafikom\latihan_texture\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1667032943 source:c:\users\labib\onedrive\documents\semester3\grafikom\latihan_texture\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<learnopengl/shader_s.h>
+	<iostream>
+
+1664369677 source:c:\users\labib\onedrive\documents\semester3\grafikom\latihan_texture - copy\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1667118627 source:c:\users\labib\onedrive\documents\semester3\grafikom\latihan_texture - copy\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<learnopengl/shader_s.h>
+	<iostream>
+
+1664369677 source:c:\users\labib\onedrive\documents\semester3\grafikom\latihan_texture - copy - copy\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1667712397 source:c:\users\labib\onedrive\documents\semester3\grafikom\latihan_texture - copy - copy\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<learnopengl/shader_s.h>
+	<iostream>
+
+1664369677 source:c:\users\labib\onedrive\documents\semester3\grafikom\tugas uts\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1669801189 source:c:\users\labib\onedrive\documents\semester3\grafikom\tugas uts\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<learnopengl/shader_s.h>
+	<iostream>
+
+1664369677 source:c:\users\labib\onedrive\documents\semester3\grafikom\tugas ga besar\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1669888066 source:c:\users\labib\onedrive\documents\semester3\grafikom\tugas ga besar\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	<iostream>
+
+1664369677 source:c:\users\labib\onedrive\documents\semester3\grafikom\tugas ga besar - copy\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1670417811 source:c:\users\labib\onedrive\documents\semester3\grafikom\tugas ga besar - copy\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	<iostream>
+
+1664369677 source:c:\users\labib\onedrive\documents\semester3\grafikom\tugas ga besar - copy - copy\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1671352170 source:c:\users\labib\onedrive\documents\semester3\grafikom\tugas ga besar - copy - copy\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	<iostream>
+
+1664369677 source:c:\users\labib\onedrive\documents\semester3\grafikom\lighting\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1671525294 source:c:\users\labib\onedrive\documents\semester3\grafikom\lighting\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<learnopengl/shader_m.h>
+	<learnopengl/camera.h>
+	<iostream>
+
+1664369677 source:c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1672383533 source:c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\main.cpp
+	"include.h"
+
+1671552629 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat.h
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"Koordinat_pewarnaan/balon_udara.cpp"
+	"Koordinat_pewarnaan/laut_atas.cpp"
+	"Koordinat_pewarnaan/bulan.cpp"
+	"Koordinat_pewarnaan/awan_atas_jembatan.cpp"
+	"Koordinat_pewarnaan/awan_atas_pulau_kecil.cpp"
+	"Koordinat_pewarnaan/awan_deket_bulan.cpp"
+	"Koordinat_pewarnaan/bintang_laut.cpp"
+	"Koordinat_pewarnaan/campfire.cpp"
+	"Koordinat_pewarnaan/coral.cpp"
+	"Koordinat_pewarnaan/dori.cpp"
+	"Koordinat_pewarnaan/elang.cpp"
+	"Koordinat_pewarnaan/gua.cpp"
+	"Koordinat_pewarnaan/gurita.cpp"
+	"Koordinat_pewarnaan/hiu.cpp"
+	"Koordinat_pewarnaan/ikan_biru.cpp"
+	"Koordinat_pewarnaan/ikan_krem.cpp"
+	"Koordinat_pewarnaan/kawanan_burung.cpp"
+	"Koordinat_pewarnaan/kerang_hijau.cpp"
+	"Koordinat_pewarnaan/kerang_oreo.cpp"
+	"Koordinat_pewarnaan/laut_depan.cpp"
+	"Koordinat_pewarnaan/laut_samping.cpp"
+	"Koordinat_pewarnaan/nemo.cpp"
+	"Koordinat_pewarnaan/pasir.cpp"
+	"Koordinat_pewarnaan/perahu.cpp"
+	"Koordinat_pewarnaan/pohon.cpp"
+	"Koordinat_pewarnaan/pulau.cpp"
+	"Koordinat_pewarnaan/rumah_bob.cpp"
+	"Koordinat_pewarnaan/rumah_patrick.cpp"
+	"Koordinat_pewarnaan/rumah_squidward.cpp"
+	"Koordinat_pewarnaan/rumput.cpp"
+	"Koordinat_pewarnaan/sailboat.cpp"
+	"Koordinat_pewarnaan/spongebob.cpp"
+	"Koordinat_pewarnaan/menara.cpp"
+	"Koordinat_pewarnaan/ubur_ubur.cpp"
+	"Koordinat_pewarnaan/batu_bawah_laut.cpp"
+
+1672339517 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\balon_udara.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\laut_atas.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\bulan.cpp
+
+1672339517 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\awan_atas_jembatan.cpp
+
+1672339517 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\awan_atas_pulau_kecil.cpp
+
+1672339517 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\awan_deket_bulan.cpp
+
+1672339517 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\bintang_laut.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\campfire.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\coral.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\dori.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\elang.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\gua.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\gurita.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\hiu.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\ikan_biru.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\ikan_krem.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\kawanan_burung.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\kerang_hijau.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\kerang_oreo.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\laut_depan.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\laut_samping.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\nemo.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\pasir.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\perahu.cpp
+
+1672339519 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\pohon.cpp
+
+1672339519 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\pulau.cpp
+
+1672339519 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\rumah_bob.cpp
+
+1672339519 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\rumah_patrick.cpp
+
+1672339519 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\rumah_squidward.cpp
+
+1672339519 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\rumput.cpp
+
+1672339519 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\sailboat.cpp
+
+1672339519 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\spongebob.cpp
+
+1672353741 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\menara.cpp
+
+1672339519 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\ubur_ubur.cpp
+
+1672339517 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\batu_bawah_laut.cpp
+
+1672339925 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\include.h
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	<windows.h>
+	<mmsystem.h>
+	"Koordinat_pewarnaan/balon_udara.cpp"
+	"Koordinat_pewarnaan/laut_atas.cpp"
+	"Koordinat_pewarnaan/bulan.cpp"
+	"Koordinat_pewarnaan/awan_atas_jembatan.cpp"
+	"Koordinat_pewarnaan/awan_atas_pulau_kecil.cpp"
+	"Koordinat_pewarnaan/awan_deket_bulan.cpp"
+	"Koordinat_pewarnaan/bintang_laut.cpp"
+	"Koordinat_pewarnaan/campfire.cpp"
+	"Koordinat_pewarnaan/coral.cpp"
+	"Koordinat_pewarnaan/dori.cpp"
+	"Koordinat_pewarnaan/elang.cpp"
+	"Koordinat_pewarnaan/gua.cpp"
+	"Koordinat_pewarnaan/gurita.cpp"
+	"Koordinat_pewarnaan/hiu.cpp"
+	"Koordinat_pewarnaan/ikan_biru.cpp"
+	"Koordinat_pewarnaan/ikan_krem.cpp"
+	"Koordinat_pewarnaan/kawanan_burung.cpp"
+	"Koordinat_pewarnaan/kerang_hijau.cpp"
+	"Koordinat_pewarnaan/kerang_oreo.cpp"
+	"Koordinat_pewarnaan/laut_depan.cpp"
+	"Koordinat_pewarnaan/laut_samping.cpp"
+	"Koordinat_pewarnaan/nemo.cpp"
+	"Koordinat_pewarnaan/pasir.cpp"
+	"Koordinat_pewarnaan/perahu.cpp"
+	"Koordinat_pewarnaan/pohon.cpp"
+	"Koordinat_pewarnaan/pulau.cpp"
+	"Koordinat_pewarnaan/rumah_bob.cpp"
+	"Koordinat_pewarnaan/rumah_patrick.cpp"
+	"Koordinat_pewarnaan/rumah_squidward.cpp"
+	"Koordinat_pewarnaan/rumput.cpp"
+	"Koordinat_pewarnaan/sailboat.cpp"
+	"Koordinat_pewarnaan/spongebob.cpp"
+	"Koordinat_pewarnaan/menara.cpp"
+	"Koordinat_pewarnaan/ubur_ubur.cpp"
+	"Koordinat_pewarnaan/batu_bawah_laut.cpp"
+	"Koordinat_pewarnaan/hujan.cpp"
+	"Koordinat_pewarnaan/lampu_menara.cpp"
+	"Koordinat_pewarnaan/cahaya_menara.cpp"
+	"Koordinat_pewarnaan/api.cpp"
+	"Koordinat_pewarnaan/percikanApi.cpp"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"shader_m.h"
+	"camera.h"
+	<iostream>
+
+1671552631 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\hujan.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\lampu_menara.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\cahaya_menara.cpp
+
+1672339517 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\api.cpp
+
+1672339518 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\koordinat_pewarnaan\percikanapi.cpp
+
+1671552631 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\shader_m.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1671552628 c:\users\labib\onedrive\documents\semester3\grafikom\lighting - copy\camera.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<vector>
+
