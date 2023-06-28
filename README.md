@@ -1,4 +1,4 @@
-# Ocean_View_3D_Model_With_LearnOpenGL
+# Tugas Besar Grafika Komputer
 ## Deskripsi
 Projek ini, yang disebut "Ocean_View_3D_Model_With_LearnOpenGL," adalah demonstrasi dari rendering tampilan laut yang realistis dalam sebuah lingkungan 3D menggunakan library LearnOpenGL. Proyek ini bertujuan untuk memperlihatkan kekuatan dan kemampuan dari LearnOpenGL dengan menciptakan sebuah pemandangan laut yang menarik secara visual dan interaktif.
 
